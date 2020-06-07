@@ -1,2 +1,2 @@
-# projeto-heranca
-ainda precisa ser editado
+# Projeto Herança
+Ainda precisa ser editado o README
