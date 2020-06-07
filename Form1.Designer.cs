@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_CadastroAluno));
             this.btn_Cadastrar = new System.Windows.Forms.Button();
             this.lbl_Idade = new System.Windows.Forms.Label();
             this.lbl_Nome = new System.Windows.Forms.Label();
@@ -179,6 +180,7 @@
             this.Font = new System.Drawing.Font("Rockwell", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.White;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frm_CadastroAluno";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_CadastroProf));
             this.txt_Disciplina = new System.Windows.Forms.TextBox();
             this.txt_Salario = new System.Windows.Forms.TextBox();
             this.txt_Idade = new System.Windows.Forms.TextBox();
@@ -183,6 +184,7 @@
             this.Font = new System.Drawing.Font("Rockwell", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.White;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frm_CadastroProf";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
