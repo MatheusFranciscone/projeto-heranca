@@ -1,0 +1,12 @@
+C:\Users\franc\OneDrive\Área de Trabalho\herança\bin\Debug\herança.exe.config
+C:\Users\franc\OneDrive\Área de Trabalho\herança\bin\Debug\herança.exe
+C:\Users\franc\OneDrive\Área de Trabalho\herança\bin\Debug\herança.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\herança\obj\Debug\herança.csprojAssemblyReference.cache
+C:\Users\franc\OneDrive\Área de Trabalho\herança\obj\Debug\herança.Properties.Resources.resources
+C:\Users\franc\OneDrive\Área de Trabalho\herança\obj\Debug\herança.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Área de Trabalho\herança\obj\Debug\herança.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Área de Trabalho\herança\obj\Debug\herança.exe
+C:\Users\franc\OneDrive\Área de Trabalho\herança\obj\Debug\herança.pdb
+C:\Users\franc\OneDrive\Área de Trabalho\herança\obj\Debug\herança.frm_Menu.resources
+C:\Users\franc\OneDrive\Área de Trabalho\herança\obj\Debug\herança.frm_CadastroAluno.resources
+C:\Users\franc\OneDrive\Área de Trabalho\herança\obj\Debug\herança.frm_CadastroProf.resources

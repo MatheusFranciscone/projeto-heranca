@@ -1,0 +1,12 @@
+C:\Users\franc\GitHub\projeto-heranca\bin\Debug\herança.exe.config
+C:\Users\franc\GitHub\projeto-heranca\bin\Debug\herança.exe
+C:\Users\franc\GitHub\projeto-heranca\obj\Debug\heranca.csprojAssemblyReference.cache
+C:\Users\franc\GitHub\projeto-heranca\obj\Debug\herança.frm_CadastroAluno.resources
+C:\Users\franc\GitHub\projeto-heranca\obj\Debug\herança.frm_Menu.resources
+C:\Users\franc\GitHub\projeto-heranca\obj\Debug\herança.frm_CadastroProf.resources
+C:\Users\franc\GitHub\projeto-heranca\obj\Debug\herança.Properties.Resources.resources
+C:\Users\franc\GitHub\projeto-heranca\obj\Debug\heranca.csproj.GenerateResource.cache
+C:\Users\franc\GitHub\projeto-heranca\obj\Debug\heranca.csproj.CoreCompileInputs.cache
+C:\Users\franc\GitHub\projeto-heranca\obj\Debug\herança.exe
+C:\Users\franc\GitHub\projeto-heranca\obj\Debug\herança.pdb
+C:\Users\franc\GitHub\projeto-heranca\bin\Debug\herança.pdb
